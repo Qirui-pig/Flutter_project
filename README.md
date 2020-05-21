@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/56495525/82520745-7c69f400-9b57-11ea-9401-5a9824887ac7.png" width = "25%" div align=left />
 <img src="https://user-images.githubusercontent.com/56495525/82520749-7f64e480-9b57-11ea-9a6e-f697b90c740b.png" width = "25%" div align=left />
 <img src="https://user-images.githubusercontent.com/56495525/82520755-7ffd7b00-9b57-11ea-9690-b1cca024bbdb.png" width = "25%" div align=left />
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 在YouTube上学习的一个ui界面
 <br><br><br><br><br><br><br>
 
